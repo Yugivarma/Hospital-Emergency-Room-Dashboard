@@ -55,10 +55,3 @@ The dashboard highlights **patient wait times, satisfaction levels, referrals, d
 
 ---
 
-## 📸 Dashboard Preview
-(Add screenshots here once uploaded)  
-
-![Key Insights Page](Sales_Dashboard_Screenshots/page1.png)
-
----
-
